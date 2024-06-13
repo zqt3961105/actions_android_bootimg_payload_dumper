@@ -11,7 +11,7 @@ on:
         ROM_URL:
           description: 'ROM directly link'
           required: true
-          default: "https://hugeota.d.miui.com/21.3.31/miui_ALIOTH_21.3.31_25fc8f0d66_11.0.zip"
+          default: "https://cdnorg.d.miui.com/OS1.0.5.0.ULACNXM/miui_THOR_OS1.0.5.0.ULACNXM_5282e8adc1_14.0.zip"
           type: string
         PARTITIONS:
           description: 'Partitions which you need to extract(Such as boot,vendor_dlkm,...,vendor_boot)'
